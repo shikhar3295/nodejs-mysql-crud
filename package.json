@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/shikhar3295/nodejs-mysql-crud#readme",
   "dependencies": {
-    "ejs": "^3.1.8",
+    "ejs": "^2.6.1",
     "express": "^4.16.4",
     "express-myconnection": "^1.0.4",
     "morgan": "^1.9.1",
