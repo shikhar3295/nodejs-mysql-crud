@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon src/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \" no test specified\" "
   },
   "repository": {
     "type": "git",
@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/shikhar3295/nodejs-mysql-crud#readme",
   "dependencies": {
-    "ejs": "^2.6.1",
+    "ejs": "^3.1.8",
     "express": "^4.16.4",
     "express-myconnection": "^1.0.4",
     "morgan": "^1.9.1",
