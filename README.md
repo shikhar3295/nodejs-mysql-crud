@@ -1,10 +1,6 @@
 # nodejs-mysql-crud
 
-Run this project by this command :
-
-1. `npm install`
-2. `nodemon src/index.js`
-3. `localhost:3000`
+This project connects a nodejs express app to a MySQL database and creates/deletes an entry based on the inputs
 
 #### Screen shot
 
