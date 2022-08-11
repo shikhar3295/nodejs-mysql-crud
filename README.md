@@ -1,6 +1,6 @@
 # nodejs-mysql-crud
 
-This project connects a nodejs express app to a MySQL database and creates/deletes an entry based on the inputs
+This project connects a nodejs express app to a MySQL database and creates/deletes an entry based on the inputs!
 
 #### Screen shot
 
